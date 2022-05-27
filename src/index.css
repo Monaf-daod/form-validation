@@ -1,0 +1,7 @@
+.error {
+    display: inline-block;
+    color:  red;
+}
+body {
+    background-color:#ecd9c9;
+}
